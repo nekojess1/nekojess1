@@ -12,5 +12,5 @@
 
 How to reach me 
 
-[![Reach me on LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=http:///www.linkedin.com/in/jessica-alvess/)](https://www.linkedin.com/in/jessica-alvess/) [![Reach me on Instagram](https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram&link=http:///https://instagram.com/appendgirl/)](https://https://instagram.com/appendgirl/)
+[![Reach me on LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=http:///www.linkedin.com/in/jessica-alvess/)](https://www.linkedin.com/in/jessica-alvess/) [![Reach me on Instagram](https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram&link=http://https://instagram.com/appendgirl/)](https://instagram.com/appendgirl/)
 
