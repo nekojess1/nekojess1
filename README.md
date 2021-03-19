@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi, I am Jéssica. Welcome to my profile :blush: :v:
 
-<!--
-**nekojess1/nekojess1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as Web Developer at Gw Sistemas 
+- 🌱 I’m currently learning about Flutter and Vegan foods 
+- 💬 Ask me about Python, Java, Git and Telegram Bot 
+- 😄 Pronouns: She/Her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekojess1&layout=compact)
+
+How to reach me 
+
+[![Reach me on LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=http:///www.linkedin.com/in/jessica-alvess/)](https://www.linkedin.com/in/jessica-alvess/) [![Reach me on Instagram](https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram&link=http:///https://instagram.com/appendgirl/)](https://https://instagram.com/appendgirl/)
+
