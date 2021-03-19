@@ -1,6 +1,6 @@
 # Hi, I am Jéssica. Welcome to my profile :blush: :v:
 
-- 🎓 I'm Currently studying Information Systems at Federal Rural University of Pernambuco
+- 🎓 I'm currently studying Information Systems at Federal Rural University of Pernambuco
 - 🔭 I’m currently working as Web Developer at Gw Sistemas 
 - 🌱 I’m currently learning about Flutter and Vegan foods 
 - 💬 Ask me about Python, Java, Git and Telegram Bot 
