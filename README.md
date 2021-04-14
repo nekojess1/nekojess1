@@ -1,7 +1,7 @@
 # Hi, I am Jéssica. Welcome to my profile :blush: :v:
 
 - 🎓 I'm currently studying Information Systems at Federal Rural University of Pernambuco
-- 🔭 I’m currently working as Web Developer at Gw Sistemas 
+- 🔭 I’m currently working as Android Developer at Compasso UOL
 - 🌱 I’m currently learning about Flutter and Vegan foods 
 - 💬 Ask me about Python, Java, Git and Telegram Bot 
 - 😄 Pronouns: She/Her
