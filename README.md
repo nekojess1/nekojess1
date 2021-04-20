@@ -2,8 +2,8 @@
 
 - 🎓 I'm currently studying Information Systems at Federal Rural University of Pernambuco
 - 🔭 I’m currently working as Android Developer at Compasso UOL
-- 🌱 I’m currently learning about Flutter and Vegan foods 
-- 💬 Ask me about Python, Java, Git and Telegram Bot 
+- 🌱 I’m currently learning about Android and vegan foods 
+- 💬 Ask me about Python, Android, SQL, Git and Telegram Bot 
 - 😄 Pronouns: She/Her
 
 
