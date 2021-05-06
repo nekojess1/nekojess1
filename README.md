@@ -1,9 +1,9 @@
 # Hi, I am Jéssica. Welcome to my profile :blush: :v:
 
 - 🎓 I'm currently studying Information Systems at Federal Rural University of Pernambuco
-- 🔭 I’m currently working as Android Developer at Compasso UOL
+- 🔭 I’m currently working as Android Developer Trainee at Compasso UOL
 - 🌱 I’m currently learning about Android and vegan foods 
-- 💬 Ask me about Python, Android, SQL, Git and Telegram Bot 
+- 💬 Ask me about Python, SQL, Git and Telegram Bot 
 - 😄 Pronouns: She/Her
 
 
