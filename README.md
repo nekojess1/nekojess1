@@ -1,7 +1,7 @@
 # Hi, I am Jéssica. Welcome to my profile :blush: :v:
 
 - 🎓 I'm currently studying Information Systems at Federal Rural University of Pernambuco
-- 🔭 I’m currently working as Junior Android Developer at Itaú
+- 🔭 I’m currently working as Mid-level Android Developer at Itaú
 - 🌱 I’m currently learning about Android and vegan foods 
 - 😄 Pronouns: She/Her
 
